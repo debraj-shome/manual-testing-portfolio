@@ -220,14 +220,16 @@ Possible outcomes:
 
 ## 17. Sign-Off
 
-  Role            Name           Status    Date
-  --------------- -------------- --------- ------
-  QA Tester       Debraj Shome   Pending   TBD
-  Reviewer        TBD            Pending   TBD
-  Project Owner   TBD            Pending   TBD
+| Role | Name | Status | Date |
+|---|---|---|---|
+| QA Tester | Debraj Shome | Pending | TBD |
+| Reviewer | TBD | Pending | TBD |
+| Project Owner | TBD | Pending | TBD |
 
 ## 18. Version History
 
-  Version   Date         Author         Changes
-  --------- ------------ -------------- -----------------------------
-  1.0       YYYY-MM-DD   Debraj Shome   Initial Test Summary Report
+ ## 18. Version History
+
+| Version | Date | Author | Changes |
+|---|---|---|---|
+| 1.0 | 2026-08-11 | Debraj Shome | Initial Test Summary Report |
