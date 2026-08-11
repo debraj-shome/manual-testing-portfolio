@@ -3,7 +3,9 @@
 | Field | Details |
 |---|---|
 | Document Name | Manual Testing Test Plan |
-| Project | Manual Testing Portfolio |
+| Project | SauceDemo E-Commerce Web Application |
+| Application      | SauceDemo (Swag Labs) |
+| Application URL  | https://www.saucedemo.com/ 
 | Testing Type | Manual Software Testing |
 | Prepared By | Debraj Shome |
 | Version | 1.0 |
